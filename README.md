@@ -15,7 +15,7 @@ This is a full-stack Todo application that allows users to create, read, update,
 - **React.js**: A JavaScript library for building the user interface.
 - **HTML, CSS**: For structuring and styling the application.
 - **TailwindCSS**: A utility-first CSS framework for rapid UI development.
-
+ 
 **Server (Backend):**
 
 - **Node.js**: A JavaScript runtime environment.
